@@ -1,0 +1,3 @@
+let animation = 'animation';
+let name = 'js file';
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFuaW1hdGlvbnMuanMiLCJtYWluLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0FDQUEiLCJmaWxlIjoiYWxsLmpzIiwic291cmNlc0NvbnRlbnQiOlsibGV0IGFuaW1hdGlvbiA9ICdhbmltYXRpb24nOyIsImxldCBuYW1lID0gJ2pzIGZpbGUnOyJdfQ==
